@@ -20,12 +20,8 @@
     <h2>Como usar na real?</h2>
     <p>Basta criar um <code>DrawUI</code>, criar os grupos estáticos e dinâmicos, configurar objetos e depois chamar o <code>render()</code> dentro de um loop que responde ao input do usuário.</p>
     <p>Exemplo rápido:</p>
-    <pre><code>const ui = new DrawUI(20, 10);
-ui.createBorder();
-const player = new DynamicComponent("player", ui);
-player.connect([{ x: 1, y: 1, symbol: "@@" }]);
-player.runAndRender();
-ui.render();</code></pre>
+   ![image](https://github.com/user-attachments/assets/50758177-114f-48aa-af03-275955b6e081)
+
   </section>
 
   <section>
