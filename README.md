@@ -4,37 +4,6 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Termuix</title>
-<style>
-  body {
-    background: #121212;
-    color: #e0e0e0;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin: 2rem;
-    line-height: 1.6;
-  }
-  h1, h2 {
-    color: #00ffa2;
-  }
-  code {
-    background: #222;
-    padding: 0.2em 0.4em;
-    border-radius: 4px;
-    font-family: 'Fira Mono', monospace;
-  }
-  section {
-    margin-bottom: 2rem;
-  }
-  ul {
-    list-style-type: disc;
-    margin-left: 2rem;
-  }
-  footer {
-    margin-top: 4rem;
-    font-size: 0.9rem;
-    color: #777;
-    text-align: center;
-  }
-</style>
 </head>
 <body>
   <h1>Mini Lib - Game UI Básica para Terminal</h1>
