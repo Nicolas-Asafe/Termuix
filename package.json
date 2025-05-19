@@ -1,0 +1,9 @@
+{
+  "name": "termuix",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "motorGraphic.js",
+  "author": "Nicolas Asafe",
+  "license": "MIT",
+  "description": "Um motor grafico de terminal"
+}
