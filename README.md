@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Termuix</title>
-</head>
 <body>
-  <h1>Mini Lib - Game UI Básica para Terminal</h1>
+  <h1>Termuix</h1>
   <p>Essa biblioteca é tipo um kit ninja pra criar interfaces gráficas estilo jogo direto no terminal, sem frescura. Perfeita pra tu que quer botar umas paradas dinâmicas, estáticas e interagir fácil com o usuário via teclado.</p>
 
   <section>
@@ -44,4 +37,3 @@ ui.render();</code></pre>
     Feito por Nicolas Asafe &nbsp;&middot;&nbsp; 2025
   </footer>
 </body>
-</html>
